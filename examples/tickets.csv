@@ -1,0 +1,4 @@
+source,customer,text,priority
+email,Company A,"Оплата списалась дважды",high
+web,Company B,"Оплата списалась дважды",high
+chat,Company C,"Не могу войти в аккаунт",normal

@@ -1,0 +1,20 @@
+[
+  {
+    "source": "email",
+    "customer": "Company A",
+    "text": "Оплата списалась дважды",
+    "priority": "high"
+  },
+  {
+    "source": "web",
+    "customer": "Company B",
+    "text": "Оплата списалась дважды",
+    "priority": "high"
+  },
+  {
+    "source": "chat",
+    "customer": "Company C",
+    "text": "Не могу войти в аккаунт",
+    "priority": "normal"
+  }
+]
